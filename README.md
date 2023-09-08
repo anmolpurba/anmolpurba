@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Anmol, I love problem solving and creating Websites. I started following my passion during second year of my college and here I am, hope you like my work.<br>🔭 I’m currently working as Frontend Developer.<br>🌱 I’m currently learning React Js.<br>💬 Ask me about React Js, JavaScript, TypeScript, Data Structures and algorithm, Python and C++.<br>📫 How to reach me: anmolpurba02@gmail.com<br>⚡ Fun fact: We mature with the damage, not with the years.
+Hi there 👋<br>I am Anmol, I love problem solving and creating Websites. I started following my passion during second year of my college and here I am, hope you like my work.<br>🔭 I’m currently working as Full Stack Web Developer.<br>🌱 I’m currently learning React Js.<br>💬 Ask me about React Js, JavaScript, TypeScript, Data Structures and algorithm, Python and C++.<br>📫 How to reach me: anmolpurba02@gmail.com<br>⚡ Fun fact: We mature with the damage, not with the years.
 
 
 ## 🌐 Socials:
